@@ -1,2 +1,0 @@
-在eshop前台刪除OpenVendorV34.jar更換成OpenVendorV34_JDK1.4_NJCE.jar
-(因在增加銀聯訂單查詢方法時要使用OpenVendorV34_JDK1.4_NJCE.jar兩個jar同時存在會有沖突，OpenVendorV34_JDK1.4_NJCE.jar包含了OpenVendorV34.jar所有javaclass，還有自己特有javaclass
